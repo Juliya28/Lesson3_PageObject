@@ -1,0 +1,9 @@
+2023-05-29 16:40:42 INFO ====== WebDriver manager ======
+2023-05-29 16:40:43 INFO Driver [C:\Users\mVm\.wdm\drivers\chromedriver\win32\113.0.5672.63\chromedriver.exe] found in cache
+2023-05-29 16:40:44 INFO Starting
+2023-05-29 16:40:45 INFO Send 'testtest1' to element //*[@id="login"]/div[1]/label/input
+2023-05-29 16:40:45 INFO Send 'c23b2ed66e' to element //*[@id="login"]/div[2]/label/input
+2023-05-29 16:40:48 INFO Send 'Ivanov Ivan' to element //*[@id="contact"]/div[1]/label/input
+2023-05-29 16:40:48 INFO Send 'ivanov.privet@mail.ru' to element //*[@id="contact"]/div[2]/label/input
+2023-05-29 16:40:48 INFO Send 'information' to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-05-29 16:40:50 INFO Click button "Contact us"
